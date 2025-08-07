@@ -1,3 +1,39 @@
+# ⚠️ **PROJECT MOVED TO V2** ⚠️
+
+## 🚀 **NEW REPOSITORY**: [GitHub AI Autobot Action v2](https://github.com/jon-the-dev/github-ai-autobot-action)
+
+**This repository has been superseded by a complete v2 rewrite with enhanced features.**
+
+### ✨ **What's New in v2**
+- **🔧 Enhanced Architecture**: Complete TypeScript rewrite with modern patterns
+- **🤖 Multi-Provider Support**: Both OpenAI GPT and Anthropic Claude models
+- **🔒 Enterprise Security**: Enhanced input validation and error handling
+- **⚡ Better Performance**: Optimized processing with improved logging
+- **📊 Professional UX**: Branded comments and clear status indicators
+
+### 🎯 **Migration Guide**
+Replace your workflow action reference:
+```yaml
+# Old (this repository)
+uses: jon-the-dev/ai-codereviewer@main
+
+# New (v2 repository) 
+uses: jon-the-dev/github-ai-autobot-action@v2
+```
+
+**All existing configuration options are supported** - no breaking changes!
+
+### 🔗 **Links**
+- **New Repository**: https://github.com/jon-the-dev/github-ai-autobot-action
+- **Documentation**: Complete setup guide and advanced examples
+- **Issues**: Please create new issues in the v2 repository
+
+---
+
+## 📚 Original Documentation (Legacy)
+
+> **Note**: The content below is for historical reference only. Please use the v2 repository for new projects.
+
 # AI Code Reviewer
 
 AI Code Reviewer is a GitHub Action that leverages OpenAI's APIs to provide intelligent feedback and suggestions on
