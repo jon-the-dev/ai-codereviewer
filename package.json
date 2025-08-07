@@ -20,7 +20,7 @@
     "ts-node": "^10.9.2"
   },
   "devDependencies": {
-    "@types/node": "^22.14.0",
+    "@types/node": "^24.2.0",
     "@vercel/ncc": "^0.36.1",
     "prettier": "^3.5.3",
     "typescript": "^5.9.2"
